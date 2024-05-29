@@ -1,5 +1,4 @@
-```markdown
-# 📈 Bitcoin Price Prediction using Machine Learning 🧠
+# 📈 Bitcoin Price Prediction using Random Forest Regressor 🧠
 
 Welcome to the Bitcoin Price Prediction project! This repository contains code to load, preprocess, and train a machine learning model to predict Bitcoin closing prices. Using historical data, we employ a RandomForestRegressor to make predictions and evaluate the model's performance. Let's dive into the details! 🚀
 
