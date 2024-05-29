@@ -1,14 +1,16 @@
+---
+
 # 📈 Bitcoin Price Prediction using Random Forest Regressor 🧠
 
 Welcome to the Bitcoin Price Prediction project! This repository contains code to load, preprocess, and train a machine learning model to predict Bitcoin closing prices. Using historical data, we employ a RandomForestRegressor to make predictions and evaluate the model's performance. Let's dive into the details! 🚀
 
 ## 🗂️ Table of Contents
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
+- [Introduction](#-introduction)
+- [Dataset](#-dataset)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Results](#-results)
+- [Contributing](#-contributing)
 
 ## 🌟 Introduction
 Predicting Bitcoin prices is both a fascinating and challenging task. This project demonstrates how machine learning can be applied to forecast the closing prices of Bitcoin using historical data.
@@ -55,6 +57,8 @@ The model's performance is evaluated using Mean Squared Error (MSE) and Mean Abs
 ## 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you have any suggestions or improvements.
 
+---
 
-Made with ❤️ by [Arman Kianian]([https://github.com/yourusername](https://github.com/Armanx200))
-```
+Made with ❤️ by [Arman Kianian](https://github.com/Armanx200)
+
+---
